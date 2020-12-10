@@ -1,0 +1,13 @@
+C:\Users\juanv\Desktop\DEV\back-end\POO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\POO_PolimosrfismoSobreposicao.exe
+C:\Users\juanv\Desktop\DEV\back-end\POO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\POO_PolimosrfismoSobreposicao.deps.json
+C:\Users\juanv\Desktop\DEV\back-end\POO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\POO_PolimosrfismoSobreposicao.runtimeconfig.json
+C:\Users\juanv\Desktop\DEV\back-end\POO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\POO_PolimosrfismoSobreposicao.runtimeconfig.dev.json
+C:\Users\juanv\Desktop\DEV\back-end\POO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\POO_PolimosrfismoSobreposicao.dll
+C:\Users\juanv\Desktop\DEV\back-end\POO_PolimosrfismoSobreposicao\bin\Debug\netcoreapp3.1\POO_PolimosrfismoSobreposicao.pdb
+C:\Users\juanv\Desktop\DEV\back-end\POO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\POO_PolimosrfismoSobreposicao.csprojAssemblyReference.cache
+C:\Users\juanv\Desktop\DEV\back-end\POO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\POO_PolimosrfismoSobreposicao.AssemblyInfoInputs.cache
+C:\Users\juanv\Desktop\DEV\back-end\POO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\POO_PolimosrfismoSobreposicao.AssemblyInfo.cs
+C:\Users\juanv\Desktop\DEV\back-end\POO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\POO_PolimosrfismoSobreposicao.csproj.CoreCompileInputs.cache
+C:\Users\juanv\Desktop\DEV\back-end\POO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\POO_PolimosrfismoSobreposicao.dll
+C:\Users\juanv\Desktop\DEV\back-end\POO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\POO_PolimosrfismoSobreposicao.pdb
+C:\Users\juanv\Desktop\DEV\back-end\POO_PolimosrfismoSobreposicao\obj\Debug\netcoreapp3.1\POO_PolimosrfismoSobreposicao.genruntimeconfig.cache
